@@ -84,7 +84,7 @@ button img{
     .banner{
         background-image: url('../images/image-product-mobile.jpg');
         background-size:cover;
-        min-height: 55vh;
+        min-height: 275px;
         border-radius: 10px 10px 0px 0px;
     }
 }
