@@ -19,7 +19,7 @@ main{
 
 }
 .banner{
-    background-image: url('/images/image-product-desktop.jpg');
+    background-image: url('.../images/image-product-desktop.jpg');
     background-size: cover;
     border-radius: 10px 0px 0px 10px;
 }
@@ -82,7 +82,7 @@ button img{
         min-height: auto;
     }
     .banner{
-        background-image: url('/images/image-product-mobile.jpg');
+        background-image: url('.../images/image-product-mobile.jpg');
         background-size:cover;
         min-height: 55vh;
         border-radius: 10px 10px 0px 0px;
